@@ -1,0 +1,1 @@
+{"messages": [{"role": "user", "content": "What is coverage, in dataset terms."}, {"role": "assistant", "content": "Presence of every relation the evaluation scores. Repetition is harmless; missing coverage is not."}]}
